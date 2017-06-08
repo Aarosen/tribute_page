@@ -1,0 +1,69 @@
+h1 {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	padding-left: 15%;	
+	text-align: left;
+	color: #0099ff;
+}
+
+h2 {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	text-align: center;
+	color: #0099ff;
+}
+
+.sentence {
+	text-align: center;
+	font-family: Montserrat,sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+	color: #0099ff;
+}
+
+.moments {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	padding-left: 15%;
+	color: #0099ff;
+}
+
+
+li {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	color: #0099ff;
+}
+
+.gordon {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	padding-top: 0%;
+	padding-top: 0%;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 28px;
+	text-align: center;
+	color: #0099ff;
+}
+
+#quote {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	color: #0099ff;
+}
+
+.reference {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	text-align: center;
+	color: #0099ff;
+}
+
+.link {
+	font-family: Montserrat,sans-serif;
+	font-weight: 400;
+	color: #0099ff;
+	font-weight: 700;
+}
